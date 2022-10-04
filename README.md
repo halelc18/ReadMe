@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">Currently completing High School in Kaindorf, Austria.</h3>
 
 - 📫 How to reach me **elias.halbauer@gmail.com**
 
